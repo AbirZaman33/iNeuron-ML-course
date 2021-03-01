@@ -1,1 +1,1 @@
-# iNeuron-ML-course
+# iNeuron
